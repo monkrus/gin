@@ -3,8 +3,6 @@
   <img alt="Part" src="https://img.shields.io/badge/version-01-blue.svg?cacheSeconds=2592000" />
 </p>
 
->  Walkthrough of the Golang / Go Gin Framework Crash Course 01 | Getting Started
-
 ### 🏠 [Homepage](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)
 
 ## Install
