@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to )  Go Gin Framework Crash Course 01  Walkthroughgh 👋</h1>
+<h1 align="center">Welcome to Golang / Go Gin Framework Crash Course 01  Walkthroughgh 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-01-blue.svg?cacheSeconds=2592000" />
 </p>
