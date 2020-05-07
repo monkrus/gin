@@ -4,6 +4,7 @@
 </p>
 
 ### 🏠 [Homepage](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C31OAG4)
 
 ## Install
 ```sh
